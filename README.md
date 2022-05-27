@@ -14,6 +14,9 @@ And other option is set manually value then it accept everything<hr/>
 - https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/user-defined-functions?view=sql-server-ver15<hr/>
 
 ### 3. What is the trigger in sql server and it's Type?<br/>
+- - A trigger is a special type of stored procedure that automatically runs when an event occurs in the database server.
+- - DML triggers run when a user tries to modify data through a data manipulation language (DML) event.
+- - We can creates a DML, DDL, or logon trigger.
 - https://docs.microsoft.com/en-us/sql/t-sql/statements/create-trigger-transact-sql?view=sql-server-ver15<hr/>
 
 ### 4. What is ACID Properties in DBMS?<br/>
