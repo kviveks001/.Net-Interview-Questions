@@ -18,3 +18,16 @@ And other option is set manually value then it accept everything<hr/>
 - https://en.wikipedia.org/wiki/ACID
 - https://www.geeksforgeeks.org/acid-properties-in-dbms/<hr/>
 
+### 6. What difference between storeprocedure and views?<br/>
+- Views :- 
+- - A view is a virtual table whose contents are defined by a query.
+- - In a view we are able to write just select query not any DML operation.
+- - If a view is created with table then we are not able to drop that table.
+- https://docs.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-ver16
+
+- Storeprocedure :-
+- - It is nothing JUST a group of SQL statements and which takes some input and perform task and return some output.
+- - In stored procedure we are able to perform CRUD operation.
+- - We are able to call another procedure and function inside procedure.
+- https://www.geeksforgeeks.org/what-is-stored-procedures-in-sql/
+
